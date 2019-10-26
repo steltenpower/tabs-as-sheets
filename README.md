@@ -7,3 +7,13 @@ In Firefox (unless blocked by sysadmin) in settings you can "Use current pages" 
 This is not the most gentle user-friendly solution. How to improve? With a browser extension, possibly at some point turned into standard Firefox functionality?
 
 Could the wireless clicker people use to go through their Powerpoint sheets also be used to go through browser tabs?
+
+Can you stop the reload on switch-to-tab that sometimes happens? (as that would wreck you presentation on internet-hiccup)
+
+Same question for
+
+data:text/html, <html contenteditable>
+
+content
+
+and can you have a save-to-URL after editing ?
