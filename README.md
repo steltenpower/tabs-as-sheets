@@ -12,7 +12,7 @@ Can you stop the reload on switch-to-tab that sometimes happens? (as that would 
 
 Same question for
 
-<!-- data:text/html, <html contenteditable> -->
+<pre> data:text/html, <html contenteditable> </pre>
 
 content
 
