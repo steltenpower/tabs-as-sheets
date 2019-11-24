@@ -1,5 +1,5 @@
 # LinkPowerOverPowerPoint
-For every sheet a browsertab is awesome, but needs improvement
+*For every sheet a browsertab is awesome, but needs improvement*
 
 Use the living web as your sheets ...
 
@@ -12,7 +12,7 @@ Can you stop the reload on switch-to-tab that sometimes happens? (as that would 
 
 Same question for
 
-data:text/html, <html contenteditable>
+<!-- data:text/html, <html contenteditable> -->
 
 content
 
