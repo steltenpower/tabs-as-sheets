@@ -3,7 +3,7 @@
 
 Use the living web as your sheets ...
 
-In Firefox (unless blocked by sysadmin) in settings you can "Use current pages" for setting the browser 'homepage". It then saves them as one pipe-separated 'URL' than you can send to someone to set in their browser settings.
+In Firefox (unless blocked by sysadmin) in settings you can "Use current pages" for setting the browser 'homepage". It then saves them as one pipe-separated 'URL' that you can then send to someone to set in their browser settings.
 This is not the most gentle user-friendly solution. How to improve? With a browser extension, possibly at some point turned into standard Firefox functionality?
 
 Could the wireless clicker people use to go through their Powerpoint sheets also be used to go through browser tabs?
@@ -14,6 +14,8 @@ Same question for
 
 <pre> data:text/html, <html contenteditable> </pre>
 
-content
+type of content
 
 and can you have a save-to-URL after editing ?
+
+And can we do something about all those stupid cookie popups?
