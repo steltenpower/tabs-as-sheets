@@ -1,4 +1,4 @@
-# LinkPowerOverPowerPoint
+# tabs as sheets
 *For every sheet a browsertab is awesome, but needs improvement*
 
 Use the living web as your sheets ...
