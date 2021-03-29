@@ -18,4 +18,6 @@ type of content
 
 and can you have a save-to-URL after editing ?
 
-And can we do something about all those stupid cookie popups?
+And can we do something about all those stupid cookie popups? What's that clean reading mode called again?
+
+And in settings uncheck "Ctrl+Tab cycles through tabs in recently used order"
