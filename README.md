@@ -23,3 +23,5 @@ And can we do something about all those stupid cookie popups? What's that clean 
 And in settings uncheck "Ctrl+Tab cycles through tabs in recently used order"
 
 Many browsers have functionality to save all open browsertabs in a bookmark folder and in some browsers you can then select all bookmarks there and copy the URLs at once.
+
+Use tab title for numbering?
