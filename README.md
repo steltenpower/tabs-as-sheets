@@ -1,6 +1,6 @@
 # tabs as sheets
 *For every sheet a browsertab is awesome, but needs improvement*
-
+<img src="https://repository-images.githubusercontent.com/191587320/4e4fc780-583e-11eb-9d86-98cba0ebad61">
 Use the living web as your sheets ...
 
 In Firefox (unless blocked by sysadmin) in settings you can "Use current pages" for setting the browser 'homepage". It then saves them as one pipe-separated 'URL' that you can then send to someone to set in their browser settings.
