@@ -18,6 +18,8 @@ type of content
 
 and can you have a save-to-URL after editing ?
 
+Can https://codepo8.github.io/pastebinzero/ help ?
+
 And can we do something about all those stupid cookie popups? What's that clean reading mode called again?
 Maybe save your presentation as a browser in a VirtualMachine-image?
 
