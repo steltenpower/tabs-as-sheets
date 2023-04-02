@@ -6,7 +6,7 @@ Use the living web as your sheets ...
 In Firefox (unless blocked by sysadmin) in settings you can "Use current pages" for setting the browser 'homepage". It then saves them as one pipe-separated 'URL' that you can then send to someone to set in their browser settings.
 This is not the most gentle user-friendly solution. How to improve? With a browser extension, possibly at some point turned into standard Firefox functionality?
 
-Could the wireless clicker people use to go through their Powerpoint sheets also be used to go through browser tabs?
+Could the wireless clicker people use to go through their Powerpoint sheets also be used to go through browser tabs? As wireless clickers are just wireless keyboards within the receiving device reactions can be adjusted. What's the easiest program for that?
 
 Can you stop the reload on switch-to-tab that sometimes happens? (as that would wreck you presentation on internet-hiccup)
 
