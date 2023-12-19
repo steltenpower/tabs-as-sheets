@@ -25,6 +25,10 @@ Maybe save your presentation as a browser in a VirtualMachine-image?
 
 And in settings uncheck "Ctrl+Tab cycles through tabs in recently used order"
 
+Maybe auto-generate an extra sheet for every sheet with a new show-referrer-big.io?url=......
+
+Auto-generate a quick&dirty Powerpoint, as second best.
+
 Many browsers have functionality to save all open browsertabs in a bookmark folder and in some browsers you can then select all bookmarks there and copy the URLs at once.
 
 Use tab title for numbering?
