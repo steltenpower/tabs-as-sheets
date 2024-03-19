@@ -37,5 +37,5 @@ Add a request to Vivaldi, a web browser high on tab functionality: https://forum
 
 (old) Chrome extension for copy/pasting tab sets: https://chromewebstore.google.com/detail/tab-copypaste/nbfccmdfpollpgjnbghmnkmgimliookh
 
-blank editable sheet (might be parsed): data:text/html, <html contenteditable>
+blank editable sheet (might be parsed, so see source): data:text/html, <html contenteditable>
 
