@@ -36,3 +36,6 @@ Use tab title for numbering?
 Add a request to Vivaldi, a web browser high on tab functionality: https://forum.vivaldi.net/topic/85259/presenting-tabs-as-if-powerpoint-sheets where replies already give useful ingredients
 
 (old) Chrome extension for copy/pasting tab sets: https://chromewebstore.google.com/detail/tab-copypaste/nbfccmdfpollpgjnbghmnkmgimliookh
+
+blank editable sheet (might be parsed): data:text/html, <html contenteditable>
+
