@@ -8,6 +8,8 @@ This is not the most gentle user-friendly solution. How to improve? With a brows
 
 Could the wireless clicker people use to go through their Powerpoint sheets also be used to go through browser tabs? As wireless clickers are just wireless keyboards within the receiving device reactions can be adjusted, for example by <a href="https://www.autohotkey.com/docs/v1/misc/Remap.htm#Remap">re-mapping keys with AutoHotKeys</a>
 
+"Copy link to highlight" and #anchors are rather useful to highlight/scroll to the right part of a page
+
 Can you stop the reload on switch-to-tab that sometimes happens? (as that would wreck you presentation on internet-hiccup)
 
 Same question for
