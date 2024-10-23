@@ -1,4 +1,4 @@
-# tabs as sheets
+# browsersheets
 *For every sheet a browsertab is awesome, but needs improvement*
 <img src="https://repository-images.githubusercontent.com/191587320/4e4fc780-583e-11eb-9d86-98cba0ebad61">
 Use the living web as your sheets ...
